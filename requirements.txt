@@ -1,0 +1,15 @@
+# --- Core Math & Optimization ---
+numpy>=1.24.0      # Çok boyutlu diziler ve CIADA matris işlemleri
+scipy>=1.10.0      # Gelişmiş matematiksel fonksiyonlar (isteğe bağlı)
+
+# --- Data Handling ---
+pandas>=2.0.0      # CSV/Excel veri setlerini işleme ve toplu reçete üretimi
+openpyxl>=3.1.0    # Excel dosyalarını okuma/yazma desteği
+
+# --- Visualization & Reporting ---
+matplotlib>=3.7.0  # Yakınsama grafikleri ve 3D yüzey haritaları
+fpdf2>=2.7.0       # Uzman Danışmanlık için otomatik PDF rapor üretimi
+
+# --- Academic & Research Tools ---
+# (Opsiyonel: Eğer simülasyonları notebook üzerinde çalıştıracaksan)
+ipython>=8.12.0
